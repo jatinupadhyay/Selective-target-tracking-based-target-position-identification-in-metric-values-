@@ -11,3 +11,6 @@ I AM NOT LIABLE IF THE CODE IS USED IN ANY DESTRUCTIVE ACTIVITY.
 The calculation is described in detail in my paper "Multiple Drone Navigation and Formation Using Selective Target Tracking-Based Computer Vision.": 
 https://www.mdpi.com/1253900
 
+Please cite my paper if you utilised my code.
+
+Thank you
